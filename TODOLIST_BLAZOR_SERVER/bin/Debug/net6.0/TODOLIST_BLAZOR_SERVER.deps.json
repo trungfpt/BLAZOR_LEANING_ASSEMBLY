@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TODOLIST_BLAZOR_SERVER/1.0.0": {
+        "runtime": {
+          "TODOLIST_BLAZOR_SERVER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TODOLIST_BLAZOR_SERVER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

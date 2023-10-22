@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TODOLIST_BLAZOR_SERVER.props" />
+</Project>
